@@ -109,5 +109,5 @@ Em tarefas repetitivas, backups automáticos, deploys de código e configuraçã
 ### 2. Qual script você usaria?
 Os scripts de limpeza de logs antigos, verificação de segurança ou provisionamento de ambiente de desenvolvimento.
 
-## 3. Como isso se aplica ao DevOps?
+### 3. Como isso se aplica ao DevOps?
 O Shell Script é a "cola" que integra diferentes ferramentas. Ele permite a redução de erros humanos, facilita a integração com CI/CD e garante que o gerenciamento de servidores seja escalável e previsível.
